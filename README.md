@@ -81,6 +81,7 @@
       <h3>GIS</h3>
       <img src="https://img.shields.io/badge/QGIS-589632?style=flat&logo=qgis&logoColor=white" />
       <img src="https://img.shields.io/badge/Copernicus-003399?style=flat" />
+      <img src="https://img.shields.io/badge/tifffile-3776AB?style=flat&logo=python&logoColor=white" />
     </td>
   </tr>
   <tr>
