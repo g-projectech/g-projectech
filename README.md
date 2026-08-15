@@ -37,6 +37,14 @@
       <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
     </td>
   </tr>
+  <tr>
+    <td valign="top" colspan="2">
+      <h3>Academic & Research</h3>
+      <a href="https://orcid.org/0009-0008-8752-9818" target="_blank">
+        <img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat&logo=orcid&logoColor=white" />
+      </a>
+    </td>
+  </tr>
 </table>
 
 ## 🛠️ Other Technologies Used
