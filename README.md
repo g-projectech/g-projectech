@@ -1,52 +1,3 @@
-# Hi there, I'm g-projectech! 👋
-
-## 🚀 Core Stack
-
-<table border="0">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Operating Systems</h3>
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
-    </td>
-    <td width="50%" valign="top">
-      <h3>Programming Languages</h3>
-      <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <h3>Web Development</h3>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-      <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" />
-    </td>
-    <td valign="top">
-      <h3>Finance</h3>
-      <img src="https://img.shields.io/badge/TradingView-191E2B?style=flat&logo=tradingview&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <h3>Data Analysis</h3>
-      <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
-    </td>
-    <td valign="top">
-      <h3>DevOps & Tools</h3>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-      <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" colspan="2">
-      <h3>Academic & Research</h3>
-      <a href="https://orcid.org/0009-0008-8752-9818" target="_blank">
-        <img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat&logo=orcid&logoColor=white" />
-      </a>
-    </td>
-  </tr>
-</table>
-
 ## 🛠️ Other Technologies Used
 
 <table border="0">
@@ -78,12 +29,15 @@
       <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
       <img src="https://img.shields.io/badge/Jinja2-B41717?style=flat&logo=jinja&logoColor=white" />
       <img src="https://img.shields.io/badge/Uvicorn-405DE6?style=flat&logo=fastapi&logoColor=white" />
+      <img src="https://img.shields.io/badge/Requests-2CA5E0?style=flat&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/python--dotenv-ECD53F?style=flat&logo=python&logoColor=black" />
     </td>
   </tr>
   <tr>
     <td valign="top">
       <h3>Finance</h3>
       <img src="https://img.shields.io/badge/yfinance-6001D2?style=flat&logo=yahoo&logoColor=white" />
+      <img src="https://img.shields.io/badge/Finnhub_API-1081D0?style=flat&logo=chartdotjs&logoColor=white" />
     </td>
     <td valign="top">
       <h3>GIS</h3>
@@ -99,9 +53,11 @@
       <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" />
       <img src="https://img.shields.io/badge/ApexCharts-008FFB?style=flat" />
       <img src="https://img.shields.io/badge/Oracle_SQL-F80000?style=flat&logo=oracle&logoColor=white" />
+      <img src="https://img.shields.io/badge/Rich-E9573F?style=flat&logo=gnometerminal&logoColor=white" />
     </td>
     <td valign="top">
       <h3>Tools & Platforms</h3>
+      <img src="https://img.shields.io/badge/PyPI-3775A9?style=flat&logo=pypi&logoColor=white" />
       <img src="https://img.shields.io/badge/Render-000000?style=flat&logo=render&logoColor=white" />
       <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
       <img src="https://img.shields.io/badge/Overleaf-47A141?style=flat&logo=overleaf&logoColor=white" />
