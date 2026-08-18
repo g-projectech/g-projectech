@@ -86,7 +86,7 @@
     <td valign="top">
       <h3>Finance</h3>
       <img src="https://img.shields.io/badge/yfinance-6001D2?style=flat&logo=yahoo&logoColor=white" />
-      <img src="https://img.shields.io/badge/Finnhub_API-1081D0?style=flat&logo=chartdotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Finnhub_API-108573?style=flat" />
     </td>
     <td valign="top">
       <h3>GIS</h3>
